@@ -1,5 +1,5 @@
 /*
-    Cristian C. Castillo & Baubak Saadat
+    Cristian C. Castillo
 */
 
 #include "httpserver_definitions.cpp"
