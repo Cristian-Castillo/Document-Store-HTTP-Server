@@ -53,7 +53,7 @@ The following installations are required to execute code:
 ## Limitations/Issues ❗
 - HTTP Server program runs properly on Unix files and environment.
 
-- HTTP Server program can handle volume of extremely large file files, but upon a PUT Request must be manually closed!
+- HTTP Server program can handle volume of extremely large files, but upon a PUT Request must be manually closed!
 
 - Allowed terminal inputs are in the following formats: ./httpserver ip address port number, ./httpserver ip address, ./httpserver localhost, ./httpserver localhost port number. The port number can be customized, but numbers ranging from 0-1023 are reserved for privileged services and designated as well known ports.
 
