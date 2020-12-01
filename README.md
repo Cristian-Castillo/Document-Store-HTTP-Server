@@ -93,7 +93,7 @@ The following installations are required to execute code:
 ## Sources 📄
 [<img align="left" alt="C++" width="80" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />][cPlusPlus]
 
-[<img align="left" alt="ShellWave" width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" />][youtubeShell]
+[<img align="left" alt="Jacob S." width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" />][youtubeShell]
 
 [<img align="left" alt="Beej's Guide" width="80" height="80" src="https://images-na.ssl-images-amazon.com/images/I/41VzZdCKtFL._SX360_BO1,204,203,200_.jpg" />][beejs]
 
@@ -116,7 +116,7 @@ The following installations are required to execute code:
 
 [cPlusPlus]: http://www.cplusplus.com/doc/tutorial/
 [geeks]: https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/#:~:text=File%20descriptor%20is%20integer%20that,pointers%20to%20file%20table%20entries.&nbsp;
-[youtubeShell]: https://www.youtube.com/watch?v=LERSkW_pLBs 
+[youtubeShell]: https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ 
 [linux]: https://man7.org/linux/man-pages/man2/syscalls.2.html
 [berkleysocks]: https://en.wikipedia.org/wiki/Berkeley_sockets
 [beejs]: http://beej.us/guide/bgnet/html/
