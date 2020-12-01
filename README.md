@@ -24,6 +24,8 @@ The following installations are required to execute code:
 
 - README.me: What you are currently reading; Contains concise specs about program information and setup.
 
+- Test-Case (dir): Unit testing commands with a TestList manual as references to the description of each unit test.
+
 ----------
 ## Notes 📝
 - This program was developed on a virtual machine environment with Ubuntu and replicates the linux cat command via system calls to the Kernel's Operating System.
@@ -51,9 +53,9 @@ The following installations are required to execute code:
 - The HTTP Server program will acknowledged a file of content-length 0 and null upon a Put Request, and will retrieve them succesfully upon a Get Request.
 ---------
 ## Limitations/Issues ❗
-- HTTP Server program runs properly on Unix files and environment.
+- Multithreaded HTTP Server program runs properly on Unix files and environment.
 
-- HTTP Server program can handle volume of extremely large files, but upon a PUT Request must be manually closed!
+- Multithreaded HTTP Server program can handle volume of extremely large files, but must be manually closed by the client!
 
 - Allowed terminal inputs are in the following formats: ./httpserver ip address port number, ./httpserver ip address, ./httpserver localhost, ./httpserver localhost port number. The port number can be customized, but numbers ranging from 0-1023 are reserved for privileged services and designated as well known ports.
 
@@ -109,6 +111,7 @@ The following installations are required to execute code:
 [<img align="left" alt="Tutor point" width="80" height="80" src="https://i.pinimg.com/280x280_RS/da/08/dc/da08dcf59c717413b711e2bfbaf2ab45.jpg" />][tutorpoint]
 
 [<img align="left" alt="Linux" width="80" height="80" src="https://image.flaticon.com/icons/png/512/518/518713.png" />][linux]
+[<img align="left" alt="Posix" width="80" height="80" src="https://miro.medium.com/max/750/1*0BdBsbywXV2HBZuJIrw7Ng.jpeg" />][Posix]
 <br /><br /><br />
 
 [cPlusPlus]: http://www.cplusplus.com/doc/tutorial/
@@ -121,4 +124,5 @@ The following installations are required to execute code:
 [MDN]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
 [tutorpoint]: https://www.tutorialspoint.com/http/http_requests.htm
 [man7]: https://man7.org/linux/man-pages/man2/accept.2.html
+[Posix]: https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
 
