@@ -91,24 +91,24 @@ The following installations are required to execute code:
 
 -------
 ## Sources 📄
-[<img align="left" alt="C++" width="80" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />][cPlusPlus]
+- [<img align="left" alt="C++" width="80" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />][cPlusPlus]
 
 [<img align="left" alt="Jacob S." width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" />][youtubeShell]
 
 [<img align="left" alt="Beej's Guide" width="80" height="80" src="https://images-na.ssl-images-amazon.com/images/I/41VzZdCKtFL._SX360_BO1,204,203,200_.jpg" />][beejs]
 
-[<img align="left" alt="Geeks Picture" width="80" height="80" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEF0x_q7m5JjQ/company-logo_200_200/0?e=2159024400&v=beta&t=tEbDQX9zSpsKFIZHJzuUCLCTEIXdSAbvaRirs5PKA1M" />][geeks]
+[<img align="left" alt="Geeks Picture" width="80" height="80" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEF0x_q7m5JjQ/company-logo_200_200/0?e=2159024400&v=beta&t=tEbDQX9zSpsKFIZHJzuUCLCTEIXdSAbvaRirs5PKA1M" />][geeks] <br>
 
-[<img align="left" alt="MDN Web" width="80" height="80" src="https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png" />][MDN]
+- [<img align="left" alt="MDN Web" width="80" height="80" src="https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png" />][MDN]
 
 [<img align="left" alt="Linux" width="80" height="80" src="https://media.glassdoor.com/sqll/771794/netcat-biz-squarelogo-1462451320719.png" />][linuxTech]
 
 [<img align="left" alt="Berkley Sockets" width="80" height="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSm5a8lKt9XFTLvZwJKxFxuo52oTa2Rvlj0fQ&usqp=CAU" />][berkleysocks]
 
-[<img align="left" alt="Linux Man" width="80" height="80" src="https://man7.org/tlpi/cover/TLPI-front-cover-small-256.png" />][man7]
+[<img align="left" alt="Linux Man" width="80" height="80" src="https://man7.org/tlpi/cover/TLPI-front-cover-small-256.png" />][man7] <br>
 
 
-[<img align="left" alt="Tutor point" width="80" height="80" src="https://i.pinimg.com/280x280_RS/da/08/dc/da08dcf59c717413b711e2bfbaf2ab45.jpg" />][tutorpoint]
+- [<img align="left" alt="Tutor point" width="80" height="80" src="https://i.pinimg.com/280x280_RS/da/08/dc/da08dcf59c717413b711e2bfbaf2ab45.jpg" />][tutorpoint]
 
 [<img align="left" alt="Linux" width="80" height="80" src="https://image.flaticon.com/icons/png/512/518/518713.png" />][linux]
 [<img align="left" alt="Posix" width="80" height="80" src="https://miro.medium.com/max/750/1*0BdBsbywXV2HBZuJIrw7Ng.jpeg" />][Posix]
