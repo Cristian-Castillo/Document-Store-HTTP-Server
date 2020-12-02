@@ -17,7 +17,6 @@ The following installations are required to execute code:
 
 - Use this program only as a reference to learn about HTTP Server Socket Programming. Should you decide to use this program in the Academia, credit the author and source. Also note do not copy/plagiarise this work for personal academic advancement, you risk dire consequences such as being given a failing grade, and possibly expelled.
 
-- Do use this code as a reference 
 ## Directory Contents 📂
 - httpserver.cpp: main driver program.
 
