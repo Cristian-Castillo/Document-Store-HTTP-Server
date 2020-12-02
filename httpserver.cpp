@@ -1,7 +1,6 @@
 /*
     Cristian C. Castillo
 */
-
 #include "httpserver_definitions.cpp"
 
 /* Master http_obj only stores content length */

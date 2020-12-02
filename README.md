@@ -1,6 +1,7 @@
 # Readme
-## Author: Cristian C. Castillo
-   🗄️ HTTP Server Socket Programming
+## Author: Cristian C. Castillo <br />
+## CruzID: ccarri11 <br />
+   🗄️ HTTP Server <br />
 --------
 ## Requirements 🖥️ 
 The following installations are required to execute code:
@@ -11,7 +12,7 @@ The following installations are required to execute code:
 - Clang
 
 --------
-## Directory Contents 📂
+## Assignment 1 Directory Contents 📂
 - httpserver.cpp: main driver program.
 
 - httpserver_definitions.cpp: function definitions/operations
@@ -24,11 +25,9 @@ The following installations are required to execute code:
 
 - README.me: What you are currently reading; Contains concise specs about program information and setup.
 
-- Test-Case (dir): Unit testing commands with a TestList manual as references to the description of each unit test.
-
 ----------
 ## Notes 📝
-- This program was developed on a virtual machine environment with Ubuntu and replicates the linux cat command via system calls to the Kernel's Operating System.
+- This program was developed on a virtual machine environment with Ubuntu and utilizes the Httpserver Client-Model, via system calls to the Kernel's Operating System.
 
 - Program is tested vigorously Valgrind for memory leaks.
 
@@ -53,9 +52,9 @@ The following installations are required to execute code:
 - The HTTP Server program will acknowledged a file of content-length 0 and null upon a Put Request, and will retrieve them succesfully upon a Get Request.
 ---------
 ## Limitations/Issues ❗
-- Multithreaded HTTP Server program runs properly on Unix files and environment.
+- HTTP Server program runs properly on Unix files and environment.
 
-- Multithreaded HTTP Server program can handle volume of extremely large files, but must be manually closed by the client!
+- HTTP Server program can handle volume of extremely large file files, but upon a PUT Request must be manually closed!
 
 - Allowed terminal inputs are in the following formats: ./httpserver ip address port number, ./httpserver ip address, ./httpserver localhost, ./httpserver localhost port number. The port number can be customized, but numbers ranging from 0-1023 are reserved for privileged services and designated as well known ports.
 
@@ -93,13 +92,13 @@ The following installations are required to execute code:
 ## Sources 📄
 [<img align="left" alt="C++" width="80" height="80" src="https://cdn.freebiesupply.com/logos/large/2x/c-logo-png-transparent.png" />][cPlusPlus]
 
-[<img align="left" alt="Jacob S." width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" />][youtubeShell]
+[<img align="left" alt="ShellWave" width="80" height="80" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Youtube%28amin%29.png" />][youtubeShell]
 
 [<img align="left" alt="Beej's Guide" width="80" height="80" src="https://images-na.ssl-images-amazon.com/images/I/41VzZdCKtFL._SX360_BO1,204,203,200_.jpg" />][beejs]
 
 [<img align="left" alt="Geeks Picture" width="80" height="80" src="https://media-exp1.licdn.com/dms/image/C4E0BAQEF0x_q7m5JjQ/company-logo_200_200/0?e=2159024400&v=beta&t=tEbDQX9zSpsKFIZHJzuUCLCTEIXdSAbvaRirs5PKA1M" />][geeks]
 
-[<img align="left" alt="MDN Web" width="80" height="80" src="https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png" />][MDN] <br><br><br>
+[<img align="left" alt="MDN Web" width="80" height="80" src="https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png" />][MDN]
 
 [<img align="left" alt="Linux" width="80" height="80" src="https://media.glassdoor.com/sqll/771794/netcat-biz-squarelogo-1462451320719.png" />][linuxTech]
 
@@ -107,14 +106,15 @@ The following installations are required to execute code:
 
 [<img align="left" alt="Linux Man" width="80" height="80" src="https://man7.org/tlpi/cover/TLPI-front-cover-small-256.png" />][man7]
 
-[<img align="left" alt="Linux" width="80" height="80" src="https://image.flaticon.com/icons/png/512/518/518713.png" />][linux]
 
-[<img align="left" alt="Posix" width="80" height="80" src="https://miro.medium.com/max/750/1*0BdBsbywXV2HBZuJIrw7Ng.jpeg" />][Posix]
+[<img align="left" alt="Tutor point" width="80" height="80" src="https://i.pinimg.com/280x280_RS/da/08/dc/da08dcf59c717413b711e2bfbaf2ab45.jpg" />][tutorpoint]
+
+[<img align="left" alt="Linux" width="80" height="80" src="https://image.flaticon.com/icons/png/512/518/518713.png" />][linux]
 <br /><br /><br />
 
 [cPlusPlus]: http://www.cplusplus.com/doc/tutorial/
 [geeks]: https://www.geeksforgeeks.org/input-output-system-calls-c-create-open-close-read-write/#:~:text=File%20descriptor%20is%20integer%20that,pointers%20to%20file%20table%20entries.&nbsp;
-[youtubeShell]: https://www.youtube.com/channel/UCwd5VFu4KoJNjkWJZMFJGHQ 
+[youtubeShell]: https://www.youtube.com/watch?v=LERSkW_pLBs 
 [linux]: https://man7.org/linux/man-pages/man2/syscalls.2.html
 [berkleysocks]: https://en.wikipedia.org/wiki/Berkeley_sockets
 [beejs]: http://beej.us/guide/bgnet/html/
@@ -122,5 +122,4 @@ The following installations are required to execute code:
 [MDN]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages
 [tutorpoint]: https://www.tutorialspoint.com/http/http_requests.htm
 [man7]: https://man7.org/linux/man-pages/man2/accept.2.html
-[Posix]: https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html
 
