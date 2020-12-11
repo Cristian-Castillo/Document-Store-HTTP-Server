@@ -10,6 +10,8 @@ The following installations are required to execute code:
 
 - Clang
 
+- Optional - If you like it star it!
+
 --------
 ## Disclaimer
 --------
