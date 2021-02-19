@@ -1,6 +1,6 @@
 # Readme
 ## Author: Cristian C. Castillo <br />
-🗄️ HTTP Server <br />
+🗄️ Document Store <br />
 --------
 ## Requirements 🖥️ 
 The following installations are required to execute code:
